@@ -1,6 +1,6 @@
 # Visual Studio 2026 AI-first IDE
 Visual Studio 2026 ถูกออกแบบมาเป็น “AI-first IDE”
-<img width="1266" height="693" alt="image" src="https://github.com/user-attachments/assets/87787556-3567-4917-8797-7fa559853d33" />
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/87787556-3567-4917-8797-7fa559853d33" />
 
 **สรุปฟีเจอร์เด่นจริงของ Visual Studio 2026 + GitHub Copilot
 
