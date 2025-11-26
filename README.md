@@ -2,7 +2,9 @@
 Visual Studio 2026 ถูกออกแบบมาเป็น “AI-first IDE” หรือตามคำกล่าวไมโครซอฟท์ที่เรียกว่า AI-native IDE เป็นการก้าวเข้าสู่ยุค AI-first development ที่ Microsoft ตั้งใจให้ IDE กลายเป็น “ผู้ช่วยอัจฉริยะ” ของนักพัฒนา ทั้งในด้าน productivity, performance และ security
 <img width="800"  alt="image" src="https://github.com/user-attachments/assets/87787556-3567-4917-8797-7fa559853d33" />
 
-*** AI-native คือการ "สร้างด้วย AI เป็นแกนกลาง" ต่างจากการ "ติดตั้ง AI เพิ่มเข้าไป"
+
+**AI-native คือการ "สร้างด้วย AI เป็นแกนกลาง" ต่างจากการ "ติดตั้ง AI เพิ่มเข้าไป"
+
 **สรุปฟีเจอร์เด่นจริงของ Visual Studio 2026 + GitHub Copilot
 
 #
