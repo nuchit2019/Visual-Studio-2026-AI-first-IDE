@@ -1,4 +1,4 @@
-# Visual-Studio-2026-AI-first-IDE
+# Visual Studio 2026 AI-first IDE
 Visual Studio 2026 ถูกออกแบบมาเป็น “AI-first IDE”
 
 ด้านล่างคือ **สรุปฟีเจอร์เด่นจริงของ Visual Studio 2026 + GitHub Copilot (รวมของปี 2025–2026 Preview)** แบบเข้าใจง่ายและตรงกับที่คุณเจอในหน้าจอเลยครับ 🔥
