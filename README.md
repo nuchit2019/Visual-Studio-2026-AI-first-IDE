@@ -1,18 +1,18 @@
 # Visual Studio 2026 AI-first IDE
 Visual Studio 2026 ถูกออกแบบมาเป็น “AI-first IDE”
 
-ด้านล่างคือ **สรุปฟีเจอร์เด่นจริงของ Visual Studio 2026 + GitHub Copilot (รวมของปี 2025–2026 Preview)** แบบเข้าใจง่ายและตรงกับที่คุณเจอในหน้าจอเลยครับ 🔥
+**สรุปฟีเจอร์เด่นจริงของ Visual Studio 2026 + GitHub Copilot
 
 #
 
-# 🚀 **Visual Studio 2026 + GitHub Copilot — ของเด่นที่เปลี่ยนวิธีเขียนโค้ดไปเลย**
+# **Visual Studio 2026 + GitHub Copilot — จุดเด่นที่เปลี่ยนวิธีเขียนโค้ด...**
 
 VS2026 ถูกออกแบบมาเป็น “AI-first IDE”
 และรวม Copilot เข้าไปใน Workflow ของ Dev แบบลึกที่สุดตั้งแต่มีมา
 
-## 🎯 **1) AI Refactor แบบหลายไฟล์ (Multi-file Refactoring)**
+## **1) AI Refactor แบบหลายไฟล์ (Multi-file Refactoring)**
 
-**เด่นที่สุด** → ฟีเจอร์ที่คุณกำลังใช้อยู่
+**เด่นที่สุด**
 
 Copilot สามารถ:
 
@@ -22,12 +22,9 @@ Copilot สามารถ:
 * แก้ไข function signature, interface, controller, repository ตาม dependency chain
 * อัปเดตโค้ดให้สอดคล้องทั้งโครงการ
 
-นี่คือความสามารถระดับใหม่ →
-**คล้าย ReSharper + คนเขียนโค้ด + คนออกแบบสถาปัตยกรรมในตัวเดียว**
-
 #
 
-## 🤖 **2) AI Plan Mode (เหมือนมี PM/Architect อยู่ในเครื่อง)**
+## **2) AI Plan Mode (เหมือนมี PM/Architect อยู่ในเครื่อง)**
 
 Copilot จะสร้างไฟล์แบบ:
 
@@ -46,7 +43,7 @@ Copilot จะสร้างไฟล์แบบ:
 
 #
 
-## 🧠 **3) AI-Agent ที่ทำงานเป็น “Code Worker”**
+## **3) AI-Agent ที่ทำงานเป็น “Code Worker”**
 
 Copilot ทำงานใน background เช่น:
 
@@ -65,7 +62,7 @@ Copilot จะไปทำทั้งหมดแบบ autonomous mode
 
 #
 
-## ⚡ **4) AI Diff View ที่ฉลาดกว่า Git**
+## **4) AI Diff View ที่ฉลาดกว่า Git**
 
 ขณะ Refactor:
 
@@ -78,7 +75,7 @@ Copilot จะไปทำทั้งหมดแบบ autonomous mode
 
 #
 
-## 📚 **5) AI Train-Your-Project (Context-Aware AI)**
+## **5) AI Train-Your-Project (Context-Aware AI)**
 
 VS2026 อ่าน:
 
@@ -97,7 +94,7 @@ AI “เรียนรู้” โครงสร้างของ solution
 
 #
 
-## 🛠 **6) Copilot Code Actions (AI Fix/Suggest)**
+## **6) Copilot Code Actions (AI Fix/Suggest)**
 
 ตอนนี้ Code Actions ใน VS2026 ไม่ใช่แค่การ Format หรือ Quick Fix
 
@@ -112,7 +109,7 @@ AI “เรียนรู้” โครงสร้างของ solution
 
 #
 
-## 🔥 **7) AI-aware Solution Navigation**
+## **7) AI-aware Solution Navigation**
 
 VS2026 เข้าใจคำถามเชิงสถาปัตยกรรม เช่น:
 
@@ -125,7 +122,7 @@ VS2026 เข้าใจคำถามเชิงสถาปัตยกร�
 
 #
 
-## ☁ **8) Dev Box / Cloud Environment Integration (สูงขึ้น)**
+## **8) Dev Box / Cloud Environment Integration (สูงขึ้น)**
 
 VS2026 ผูกกับ:
 
@@ -142,7 +139,7 @@ Copilot จะสร้าง YAML ให้ครบ Dev → UAT → PRD
 
 #
 
-# ⭐ สรุปฟีเจอร์เด่นที่สุด (สั้นที่สุด)
+# สรุปฟีเจอร์เด่นที่สุด (สั้นที่สุด)
 
 | ความสามารถ                 | ความเด่น                            |
 | -------------------------- | ----------------------------------- |
